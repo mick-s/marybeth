@@ -2,6 +2,6 @@ div.et_pb_section.et_pb_section_0 {
     background-image: url(https://www.breeshook.com/wp-content/uploads/2020/04/44023849_10155821392325963_5174032782346682368_o.jpg)!important;
 }
 @media only screen and (max-width: 980px)
-div.et_pb_section.et_pb_section_0 {
+.et_pb_section.et_pb_section_0.et_pb_with_background.et_pb_fullwidth_section.et_section_regular.et_pb_section_first {
     background-size: cover !important;
 }
